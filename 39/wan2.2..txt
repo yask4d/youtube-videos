@@ -1,0 +1,60 @@
+Wan2.2
+Wan 2.2 AI Video Tool Overview
+Prompt Formulas
+Three structured approaches to generate videos:
+Aesthetic Controls
+Parameters to refine visual output:
+Core Upgrade: Wan 2.2 offers enhanced video generation with improved fluidity, realism,
+and speed. Supports Text-to-Video and Image-to-Video modes with cinematic controls.
+Key Improvements:
+Precise motion generation (human actions, expressions).
+Better prompt adherence (multi-object scenes, spatial accuracy).
+Professional cinematic aesthetics (lighting, color, composition).
+1. Basic Formula: Subject + Scene + Motion
+Example: "A cat (subject) in a garden (scene) jumping (motion)."
+2. Advanced Formula: Subject (Details) + Scene (Details) + Motion (Details) +
+Aesthetic Control + Stylization
+Adds granular control (e.g., lighting, shot size).
+3. Image-to-Video Formula: Motion Description + Camera Movement
+Focuses on animating existing images (e.g., "Running + Pan left").
+1. Light Source: Sunny, artificial, moonlight, firelight, etc.
+2. Lighting Type: Soft, hard, top, side, underlighting.
+3. Time of Day: Sunrise, dusk, night, etc.
+4. Shot Size: Extreme close-up, wide shot, establishing shot.
+5. Composition: Center-balanced, symmetrical, weighted (left/right).
+6. Lens: Wide-angle, telephoto, fisheye, medium.
+7. Color Tone: Warm, cool, saturated, desaturated.Dynamic Control
+Stylization
+Creative visual styles and effects:
+Key Takeaways
+Wan2.2
+Wan 2.2 AI Video Tool Overview
+Prompt Formulas
+Three structured approaches to generate videos:
+Aesthetic Controls
+Parameters to refine visual output:
+Core Upgrade: Wan 2.2 offers enhanced video generation with improved fluidity, realism,
+and speed. Supports Text-to-Video and Image-to-Video modes with cinematic controls.
+Key Improvements:
+Precise motion generation (human actions, expressions).
+Better prompt adherence (multi-object scenes, spatial accuracy).
+Professional cinematic aesthetics (lighting, color, composition).
+1. Basic Formula: Subject + Scene + Motion
+Example: "A cat (subject) in a garden (scene) jumping (motion)."
+2. Advanced Formula: Subject (Details) + Scene (Details) + Motion (Details) +
+Aesthetic Control + Stylization
+Adds granular control (e.g., lighting, shot size).
+3. Image-to-Video Formula: Motion Description + Camera Movement
+Focuses on animating existing images (e.g., "Running + Pan left").
+1. Light Source: Sunny, artificial, moonlight, firelight, etc.
+2. Lighting Type: Soft, hard, top, side, underlighting.
+3. Time of Day: Sunrise, dusk, night, etc.
+4. Shot Size: Extreme close-up, wide shot, establishing shot.
+5. Composition: Center-balanced, symmetrical, weighted (left/right).
+6. Lens: Wide-angle, telephoto, fisheye, medium.
+7. Color Tone: Warm, cool, saturated, desaturated.Dynamic Control
+Stylization
+Creative visual styles and effects:
+Key Takeaways
+All examples include sample video links (e.g., wengtingyu_runs_wanx2.2... 5.2MB )
+demonstrating the output.
